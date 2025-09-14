@@ -52,6 +52,3 @@ This repository contains all the files and notebooks for the **SpaceX Launch Rec
 - Folium (interactive maps)
 - Plotly Dash (interactive dashboards)
 - Jupyter Notebook
-
-```bash
-git clone https://github.com/yourusername/spacex-capstone.git
